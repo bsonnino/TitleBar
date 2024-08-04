@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TitleBarColors (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TitleBarColors (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
